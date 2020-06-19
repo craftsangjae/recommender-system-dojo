@@ -1,0 +1,14 @@
+version: "3.0"
+services:
+    jupyter:
+        image: craftsangjae/jupyter-dojo:latest
+        command: [
+            "bash","-c",
+            "jupyter notebook --notebook-dir=/opt/notebooks --ip='*' --port=8888 --NotebookApp.token=''  --NotebookApp.password='' --no-browser --allow-root"]
+        ports:
+            - 8888:8888
+        volumes: 
+            - ./:/opt/notebooks
+            - ./data/:/root/.keras
+
+
