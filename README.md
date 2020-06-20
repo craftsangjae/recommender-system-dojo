@@ -4,7 +4,7 @@
 
 Code Kata is defined as an **exercise** in programming which helps hone our skill through **practice and repetition**. In machine learning programming, Code Kata for implementing **ML algorithms** is very important, becuase we can realize the details ( such as Data Sampling, Weight initialization, various training strategy ...) while implementing the algorithm. 
 
-I implement various algorithms that make up the recommendation system and organize them into scripts.
+I implement various algorithms using in **recommendation system** and organize them into scripts.
 
 
 
@@ -25,7 +25,9 @@ docker-compose up -d
 
 ----
 
-#### [Mining Frequent Pattern(apriori) using pandas](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Mining Frequent Pattern(apriori) using Pandas.ipynb)
+#### [Mining Frequent Pattern(apriori) using pandas]
+
+[Code Here](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Mining Frequent Pattern(apriori) using Pandas.ipynb)
 
 **Goals**
 
@@ -39,7 +41,9 @@ docker-compose up -d
 
 ---
 
-#### [Thompson Sampling For A/B Test](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Thompson Sampling Using AB test.ipynb)
+#### [Thompson Sampling For A/B Test]
+
+[Code Here](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Thompson Sampling Using AB test.ipynb)
 
 **Goals**
 
@@ -49,7 +53,9 @@ docker-compose up -d
 
 ----
 
-#### [Real-Time Collaborative Filtering using MinHash](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Realtime Collaborative Filtering using MinHash.ipynb)
+#### [Real-Time Collaborative Filtering using MinHash]
+
+[Code Here](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Realtime Collaborative Filtering using MinHash.ipynb)
 
 **Goals**
 
@@ -66,7 +72,9 @@ docker-compose up -d
 
 ----
 
-#### [Bayesian Personalized Ranking with Tensorflow](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Bayesian Personalized Ranking with Tensorflow.ipynb)
+#### [Bayesian Personalized Ranking with Tensorflow]
+
+[Code Here](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Bayesian Personalized Ranking with Tensorflow.ipynb)
 
 **Goals**
 
@@ -80,7 +88,9 @@ docker-compose up -d
 
 ----
 
-#### [Serving Matrix Factorization using Annoy](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Serving Matrix Factorization using Annoy.ipynb)
+#### [Serving Matrix Factorization using Annoy]
+
+[Code Here](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Serving Matrix Factorization using Annoy.ipynb)
 
 **Goals**
 
@@ -94,7 +104,9 @@ docker-compose up -d
 
 ---
 
-#### [Neural Collaborative Filtering With Tensorflow](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Neural Collaborative Filtering with Tensorflow.ipynb)
+#### [Neural Collaborative Filtering With Tensorflow]
+
+[Code Here](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Neural Collaborative Filtering with Tensorflow.ipynb)
 
 **Goals**
 
@@ -108,7 +120,9 @@ docker-compose up -d
 
 ---
 
-#### [DeepFM using Tensorflow](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/deepFM using Tensorflow.ipynb)
+#### [DeepFM using Tensorflow]
+
+#### [Code Here](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/deepFM using Tensorflow.ipynb)
 
 **Goals**
 
