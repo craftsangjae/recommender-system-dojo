@@ -25,9 +25,7 @@ docker-compose up -d
 
 ----
 
-#### [Mining Frequent Pattern(apriori) using pandas]
-
-[Code Here](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Mining Frequent Pattern(apriori) using Pandas.ipynb)
+#### [Mining Frequent Pattern(apriori) using pandas](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Mining%20Frequent%20Pattern(apriori)%20using%20Pandas.ipynb)
 
 **Goals**
 
@@ -41,21 +39,16 @@ docker-compose up -d
 
 ---
 
-#### [Thompson Sampling For A/B Test]
-
-[Code Here](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Thompson Sampling Using AB test.ipynb)
+#### [Thompson Sampling For A/B Test](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Thompson%20Sampling%20Using%20AB%20test.ipynb)
 
 **Goals**
 
 * Implement Thompson Sampling Agent to find best choice for A/B Test.
 
 
-
 ----
 
-#### [Real-Time Collaborative Filtering using MinHash]
-
-[Code Here](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Realtime Collaborative Filtering using MinHash.ipynb)
+#### [Real-Time Collaborative Filtering using MinHash](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Realtime%20Collaborative%20Filtering%20using%20MinHash.ipynb)
 
 **Goals**
 
@@ -69,12 +62,9 @@ docker-compose up -d
 * [YongHo-Ha's Recommender System Design](https://www.slideshare.net/deview/261-52784785)
 
 
-
 ----
 
-#### [Bayesian Personalized Ranking with Tensorflow]
-
-[Code Here](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Bayesian Personalized Ranking with Tensorflow.ipynb)
+#### [Bayesian Personalized Ranking with Tensorflow](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Bayesian%20Personalized%20Ranking%20with%20Tensorflow.ipynb)
 
 **Goals**
 
@@ -88,9 +78,7 @@ docker-compose up -d
 
 ----
 
-#### [Serving Matrix Factorization using Annoy]
-
-[Code Here](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Serving Matrix Factorization using Annoy.ipynb)
+#### [Serving Matrix Factorization using Annoy](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Serving%20Matrix%20Factorization%20using%20Annoy.ipynb)
 
 **Goals**
 
@@ -104,9 +92,7 @@ docker-compose up -d
 
 ---
 
-#### [Neural Collaborative Filtering With Tensorflow]
-
-[Code Here](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Neural Collaborative Filtering with Tensorflow.ipynb)
+#### [Neural Collaborative Filtering With Tensorflow](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Neural%20Collaborative%20Filtering%20with%20Tensorflow.ipynb)
 
 **Goals**
 
@@ -120,9 +106,7 @@ docker-compose up -d
 
 ---
 
-#### [DeepFM using Tensorflow]
-
-#### [Code Here](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/deepFM using Tensorflow.ipynb)
+#### [DeepFM using Tensorflow](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/deepFM%20using%20Tensorflow.ipynb)
 
 **Goals**
 
