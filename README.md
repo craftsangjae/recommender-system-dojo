@@ -2,7 +2,7 @@
 
 ### Objective
 
-Code Kata is defined as an **exercise** in programming which helps hone our skill through **practice and repetition**. In machine learning programming, Code Kata for implementing **ML algorithms** is very important, becuase we can realize the details ( such as Data Sampling, Weight initialization, various Training Strategy ...) while implementing the algorithm. 
+Code Kata is defined as an **exercise** in programming which helps hone our skill through **practice and repetition**. In machine learning programming, Code Kata for implementing **ML algorithms** is very important, becuase we can realize the details ( such as Data Sampling, Weight initialization, various training strategy ...) while implementing the algorithm. 
 
 I implement various algorithms that make up the recommendation system and organize them into scripts.
 
@@ -25,7 +25,7 @@ docker-compose up -d
 
 ----
 
-#### [Mining-Frequent-Pattern(apriori)-using-pandas]
+#### [Mining Frequent Pattern(apriori) using pandas]([https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Mining%20Frequent%20Pattern(apriori)%20using%20Pandas.ipynb](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Mining Frequent Pattern(apriori) using Pandas.ipynb)
 
 **Goals**
 
@@ -39,7 +39,7 @@ docker-compose up -d
 
 ---
 
-#### [Thompson Sampling For A/B Test]
+#### [Thompson Sampling For A/B Test]([https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Thompson%20Sampling%20Using%20AB%20test.ipynb](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Thompson Sampling Using AB test.ipynb))
 
 **Goals**
 
@@ -49,7 +49,7 @@ docker-compose up -d
 
 ----
 
-#### [Real-Time Collaborative Filtering using MinHash]
+#### [Real-Time Collaborative Filtering using MinHash]([https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Realtime%20Collaborative%20Filtering%20using%20MinHash.ipynb](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Realtime Collaborative Filtering using MinHash.ipynb))
 
 **Goals**
 
@@ -66,7 +66,7 @@ docker-compose up -d
 
 ----
 
-#### [Bayesian Personalized Ranking with Tensorflow]
+#### [Bayesian Personalized Ranking with Tensorflow]([https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Bayesian%20Personalized%20Ranking%20with%20Tensorflow.ipynb](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Bayesian Personalized Ranking with Tensorflow.ipynb))
 
 **Goals**
 
@@ -80,7 +80,7 @@ docker-compose up -d
 
 ----
 
-#### [Serving Matrix Factorization using Annoy]
+#### [Serving Matrix Factorization using Annoy]([https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Serving%20Matrix%20Factorization%20using%20Annoy.ipynb](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Serving Matrix Factorization using Annoy.ipynb))
 
 **Goals**
 
@@ -94,11 +94,11 @@ docker-compose up -d
 
 ---
 
-#### [Nueral Collaborative Filtering With Tensorflow]
+#### [Neural Collaborative Filtering With Tensorflow]([https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Neural%20Collaborative%20Filtering%20with%20Tensorflow.ipynb](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/Neural Collaborative Filtering with Tensorflow.ipynb))
 
 **Goals**
 
-* Implement NCF Models introduced in the [NCF Paper](https://arxiv.org/abs/1708.05031)
+* Implement NCF introduced in the [NCF Paper](https://arxiv.org/abs/1708.05031)
 
 **Reference**
 
@@ -108,11 +108,11 @@ docker-compose up -d
 
 ---
 
-#### DeepFM using Tensorflow
+#### [DeepFM using Tensorflow]([https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/deepFM%20using%20Tensorflow.ipynb](https://github.com/craftsangjae/recommender-system-dojo/blob/master/scripts/deepFM using Tensorflow.ipynb))
 
 **Goals**
 
-* Implement NCF Models introduced in the [DeepFM Paper](https://arxiv.org/pdf/1703.04247.pdf)
+* Implement DeepFM introduced in the [DeepFM Paper](https://arxiv.org/pdf/1703.04247.pdf)
 
 **Reference**
 
@@ -120,7 +120,16 @@ docker-compose up -d
 
 
 
+----
 
+##### CopyRight [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-#### CopyRight
+This repository is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
 
