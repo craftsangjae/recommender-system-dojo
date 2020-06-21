@@ -10,5 +10,14 @@ services:
         volumes: 
             - ./:/opt/notebooks
             - ./data/:/root/.keras
+        links:
+            - redis
+
+    redis:
+        image: redis:latest
+        volumes:
+            - ./data/:/data:rw
+
+
 
 
