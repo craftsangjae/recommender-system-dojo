@@ -4,8 +4,10 @@
 
 Code Kata is defined as an **exercise** in programming which helps hone our skill through **practice and repetition**. In machine learning programming, Code Kata for implementing **ML algorithms** is very important, becuase we can realize the details ( such as Data Sampling, Weight initialization, various training strategy ...) while implementing the algorithm. 
 
-I implement various algorithms using in **recommendation system** and organize them into scripts.
+I implement various algorithms using in **recommendation system** and organize them into scripts. I'll update one script each week.
 
+
+> If you have a good topic, feel free to leave it on the issue! I will try to implement it as much as possible!
 
 
 ### How to do the Code Kada together? (set-up environment)
